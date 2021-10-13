@@ -4,7 +4,7 @@
  ## Built With
 <div style="display: flex">
   <img alt="Tailwind" src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Next JS" src ="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"/>
+  <img alt="Next JS" src ="https://img.shields.io/badge/Next%20JS-%20-black"/>
  
 </div>
 
